@@ -1,0 +1,1 @@
+Projeto para aprender a subir uma aplicação node.js como um container usando Docker.
